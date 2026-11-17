@@ -1,0 +1,4 @@
+interface:
+  display_name: "医学研究生综述写作"
+  short_description: "通用于各医学方向的综述论证、学术表达、模板化语言控制及引文原文核对"
+  default_prompt: "请使用 $graduate-review-writing，根据当前课程与主题规范完成医学综述写作，并逐条核对关键论点及其原文依据。"
